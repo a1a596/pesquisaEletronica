@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">PesquisaEletronicaGSBF</string>
+    <string-array name="spinner1">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Distrito Federal</item>
+        <item>Espírito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Paraná</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rondônia</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
+    </string-array>
+    <string-array name="list1">
+        <item>Renato Casagrande</item>
+        <item>Renan Filho</item>
+        <item>Rui Costa</item>
+        <item>Camilo</item>
+        <item>Gladson Cameli</item>
+        <item>Waldez Góes</item>
+        <item>Wilson Lima</item>
+        <item>Ibaneis Rocha</item>
+        <item>Ronaldo Caiado</item>
+        <item>Mauro Mendes</item>
+        <item>Reinaldo Azambuja</item>
+        <item>Romeu Zema</item>
+        <item>Helder Barbalho</item>
+    </string-array>
+</resources>
